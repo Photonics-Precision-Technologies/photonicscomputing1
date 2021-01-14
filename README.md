@@ -1,1 +1,1 @@
-# photonocscomputing1
+# photonicscomputing1
